@@ -1,0 +1,55 @@
+body {
+    background: #2b2922;
+    margin: 0px;
+}
+.navbar img {
+    width: 115px;
+}
+nav.navbar {
+    display: flex;
+    color: white;
+    align-items: center;
+    margin-left: 80px;
+    margin-top: 30px;
+    font-family: 'poppins';
+    font-weight: initial;
+}
+ul {
+    display: flex;
+    list-style: none;
+    margin-left: 400px;
+}
+li.list-item {
+    margin-right: 80px;
+}
+button.button-small {
+    background-color: #2b2922;
+    font-family: 'Poppins';
+    border-color: #a08f36;
+    color: #a08f36;
+    width: 120px;
+    height: 45px;
+    border-radius: 10px;
+}
+.hero {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-family: 'Poppins';
+}
+h1.hero-heading {
+    width: 34%;
+    font-size: 65px;
+}
+p {
+    width: 30%;
+    font-size: 20px;
+    font-weight: 100;
+    position: relative;
+    top: 9vh;
+    left: -5vh;
+}
+img {
+    height: auto;
+    width: 105vh;
+}
